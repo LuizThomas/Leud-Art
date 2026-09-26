@@ -1,0 +1,6 @@
+{
+  "name": "Leud'Art — Cestas & Mimos Personalizados",
+  "description": "Boutique artesanal de cestas de presentes, mimos e lembranças personalizadas feitas à mão com afeto e sofisticação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
